@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Onkar Ambure (@Mr-React)
 - 👀 I’m interested in Web Developement.
-- 🌱 I’m currently learning PIxiJS
+- 🌱 I’m currently learning PixiJS
 - 📫 How to reach me mail:- ambureomkar@gmail.com
 
 <!---
